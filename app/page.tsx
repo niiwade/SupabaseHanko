@@ -36,7 +36,7 @@ export default function Home() {
           <p className="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
             Built with Nextjs , Shadcn , Supabase and Hanko <br /> The code is available on{" "}
             <Link
-              href={""}
+              href="https://github.com/niiwade/SupabaseHanko"
               target="_blank"
               rel="noreferrer"
               className="underline underline-offset-4"
