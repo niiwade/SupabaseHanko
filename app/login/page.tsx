@@ -1,8 +1,5 @@
 import HankoAuth from "@/components/HankoAuth";
-import Link from "next/link";
-import { cn } from "@/lib/utils";
-import { buttonVariants } from "@/components/ui/button";
-import { LuArrowLeft, LuAlarmCheck } from "react-icons/lu";
+import { LuAlarmCheck } from "react-icons/lu";
 
 export default function LoginPage() {
   return (
